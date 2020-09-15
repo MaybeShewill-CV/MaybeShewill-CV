@@ -22,7 +22,7 @@
 
 ### ☕ Get In Touch
 - [WeiBo](https://weibo.com/3073002595/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1)
-- [WeChat](./data/qr_resize.jpg)
+- [WeChat](https://github.com/MaybeShewill-CV/MaybeShewill-CV/blob/master/data/qr_resize.jpg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MaybeShewill-CV.visitor-badge)
 
