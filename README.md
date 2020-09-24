@@ -18,15 +18,8 @@
 [![BiseNetV2](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=bisenetv2-tensorflow&theme=dark)](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow)
 
 ### 🏆 Github Status
-<table><tr><td align="center" width="50%">
-
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark)
-
-</td><td align="top" width="50%">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
-
-</td></tr></table>
 
 ### ☕ Get In Touch
 - [WeiBo](https://weibo.com/3073002595/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
