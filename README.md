@@ -5,7 +5,9 @@
 [![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
+[![Pytorch](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=Pytorch&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
+[![ONNX](https://img.shields.io/badge/-ONNX-gray?style=flat&logo=onnx&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
