@@ -20,7 +20,7 @@
 [![BiseNetV2](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=bisenetv2-tensorflow&theme=dark)](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow)
 
 ### 👀 Activity Graph
-[![MaybeShewill-CV's github activity graph](https://activity-graph.herokuapp.com/graph?username=MaybeShewill-CV&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MaybeShewill-CV's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaybeShewill-CV&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark)
