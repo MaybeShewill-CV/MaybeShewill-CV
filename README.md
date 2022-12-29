@@ -1,5 +1,5 @@
 ### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaybeShewill-CV&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaybeShewill-CV&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 Languages and Tools
 [![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
@@ -17,7 +17,7 @@
 
 ### 👀 Active Repo
 [![Lane_Detection](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
-[![BiseNetV2](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=bisenetv2-tensorflow&theme=dark)](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow)
+[![mortred_model_server](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=mortred_model_server&theme=dark)](https://github.com/MaybeShewill-CV/mortred_model_server)
 
 ### 👀 Activity Graph
 [![MaybeShewill-CV's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaybeShewill-CV&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
