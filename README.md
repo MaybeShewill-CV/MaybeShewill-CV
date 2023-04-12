@@ -15,8 +15,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 
-[![Top Langs](https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 👀 Active Repo
 [![Lane_Detection](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 [![mortred_model_server](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=mortred_model_server&theme=dark)](https://github.com/MaybeShewill-CV/mortred_model_server)
@@ -26,7 +24,7 @@
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats-fork-xi.vercel.app/api?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
+[![Top Langs](https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☕ Get In Touch
 - [WeiBo](https://weibo.com/3073002595/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
