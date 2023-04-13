@@ -25,8 +25,12 @@
 [![MaybeShewill-CV's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaybeShewill-CV&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
 
 ### 🏆 Github Status
-![My Github Status](https://github-readme-stats-fork-xi.vercel.app/api?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
+<p align="center">
+<a href="https://github.com/MaybeShewill-CV">
+  <img height="200em" src="https://github-readme-stats-fork-xi.vercel.app/api?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript"/>
+</a>
+</p>
 
 ### ☕ Get In Touch
 - [WeiBo](https://weibo.com/3073002595/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)
