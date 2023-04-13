@@ -15,8 +15,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 
-[![Top Langs](https://github-readme-stats-fork-xi.vercel.app/api/top-langs/?username=MaybeShewill-CV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 👀 Active Repo
 [![Lane_Detection](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
 [![mortred_model_server](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=mortred_model_server&theme=dark)](https://github.com/MaybeShewill-CV/mortred_model_server)
