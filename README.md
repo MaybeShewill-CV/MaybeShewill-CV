@@ -17,7 +17,7 @@
 
 ### 👀 Active Repo
 [![Lane_Detection](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
-[![mortred_model_server](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=mortred_model_server&theme=dark)](https://github.com/MaybeShewill-CV/mortred_model_server)
+[![segment-anything-u-specify](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=segment-anything-u-specify&theme=dark)](https://github.com/MaybeShewill-CV/segment-anything-u-specify)
 
 ### 👀 Activity Graph
 [![MaybeShewill-CV's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaybeShewill-CV&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
