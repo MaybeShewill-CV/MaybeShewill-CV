@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  # execute every 6 hours
+  # execute every 24 hours
   schedule:
-    - cron: "* */8 * * *"
+    - cron: "* */24 * * *"
   # allows to manually run the job at any time
   workflow_dispatch:
 
