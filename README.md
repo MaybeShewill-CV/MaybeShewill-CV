@@ -15,8 +15,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 
-[![Contribution snake Light](https://raw.githubusercontent.com/MaybeShewill-CV/MaybeShewill-CV/output/github-snake.svg)](https://github.com/Platane/snk#gh-light-mode-only)
-[![Contribution snake Dark](https://raw.githubusercontent.com/MaybeShewill-CV/MaybeShewill-CV/output/github-snake-custom.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
+[![Contribution snake Light](https://raw.githubusercontent.com/MaybeShewill-CV/MaybeShewill-CV/output/github-snake.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
 
 ### 👀 Active Repo
 [![Lane_Detection](https://github-readme-stats-fork-xi.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
