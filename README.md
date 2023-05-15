@@ -18,8 +18,8 @@
 [![Contribution snake Light](https://raw.githubusercontent.com/MaybeShewill-CV/MaybeShewill-CV/output/github-snake.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
 
 ### 👀 Active Repo
-[![Lane_Detection](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
-[![segment-anything-u-specify](https://github-readme-stats.vercel.app/api/pin/?username=MaybeShewill-CV&repo=segment-anything-u-specify&theme=dark)](https://github.com/MaybeShewill-CV/segment-anything-u-specify)
+[![Lane_Detection](https://github-readme-stats.zohan.tech/api/pin/?username=MaybeShewill-CV&repo=lanenet-lane-detection&theme=dark)](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+[![segment-anything-u-specify](https://github-readme-stats.zohan.tech/api/pin/?username=MaybeShewill-CV&repo=segment-anything-u-specify&theme=dark)](https://github.com/MaybeShewill-CV/segment-anything-u-specify)
 
 ### 👀 Activity Graph
 [![MaybeShewill-CV's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaybeShewill-CV&theme=react-dark)](https://github-readme-activity-graph.cyclic.app)
@@ -27,8 +27,8 @@
 ### 🏆 Github Status
 <p align="left">
 <a href="https://github.com/MaybeShewill-CV">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MaybeShewill-CV&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeShewill-CV&theme=radical&layout=compact"/>
+  <img height="185em" src="https://github-readme-stats.zohan.tech/api?username=MaybeShewill-CV&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="185em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=MaybeShewill-CV&theme=radical&layout=compact"/>
 </a>
 </p>
 
