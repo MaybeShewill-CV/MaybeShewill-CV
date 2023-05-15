@@ -27,8 +27,8 @@
 ### 🏆 Github Status
 <p align="left">
 <a href="https://github.com/MaybeShewill-CV">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaybeShewill-CV&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeShewill-CV&theme=radical&layout=compact"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=MaybeShewill-CV&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeShewill-CV&theme=radical&layout=compact"/>
 </a>
 </p>
 
