@@ -41,4 +41,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MaybeShewill-CV.visitor-badge)
 
+![visitors_new](https://komarev.com/ghpvc/?username=MaybeShewill-CV&label=PROFILE+VISITORS&style=flat-square&color=yellowgreen)
+
 ⭐️ From [Baidu.Inc](https://github.com/MaybeShewill-CV)
