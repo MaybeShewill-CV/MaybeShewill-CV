@@ -1,5 +1,5 @@
 ### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaybeShewill-CV&theme=dracula&tile=Stars,Followers,Commits,Issues,PullRequests,Repositories&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaybeShewill-CV&theme=dracula&tile=Stars,Followers,Commits,Issues,PullRequests,Repositories&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 Languages and Tools
 [![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
