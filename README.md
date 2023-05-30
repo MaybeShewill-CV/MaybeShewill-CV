@@ -2,8 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaybeShewill-CV&theme=dracula&tile=Stars,Followers,Commits,Issues,PullRequests,Repositories&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 Languages and Tools
-[![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV) 
+[![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2Blink=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=Pytorch&link=https://github.com/MaybeShewill-CV)](https://github.com/MaybeShewill-CV)
